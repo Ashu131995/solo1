@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/solo1/static/css/main.a28ac53c.css",
+    "main.js": "/solo1/static/js/main.3f882848.js",
+    "static/media/norway.jpeg": "/solo1/static/media/norway.42243e1fabb2f5a58209.jpeg",
+    "static/media/sydney.jpeg": "/solo1/static/media/sydney.46e25ac56ee47aed0f37.jpeg",
+    "static/media/map_Pointer.png": "/solo1/static/media/map_Pointer.d12fb7293a2afcb7b2f8.png",
+    "static/media/japan.jpeg": "/solo1/static/media/japan.6b2c28a7b03be152b459.jpeg",
+    "static/media/earth.png": "/solo1/static/media/earth.0c9ef7e0c6ab236335a1.png",
+    "index.html": "/solo1/index.html",
+    "main.a28ac53c.css.map": "/solo1/static/css/main.a28ac53c.css.map",
+    "main.3f882848.js.map": "/solo1/static/js/main.3f882848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28ac53c.css",
+    "static/js/main.3f882848.js"
+  ]
+}
